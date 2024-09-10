@@ -1,2 +1,2 @@
 # f2024_econ725_ps01.
-Project Idea: TrackTheTrack - My project will revoutionize sports data from NBA to NFL to my sport Track and FIeld. TrackTheTrack willutilize 
+Project Idea: TrackTheTrack - My project will revolutionize sports analytics from NBA to NFL to Track and FIeld. TrackTheTrack will utilize historical metric data in the respective sport for each player and each team to predict the outlook for the team. For example, by using historical data of Lebron James' past years in the NBA alongside his teammates and his opponents, we will be able to predict the probability of him having for example having a 30 point or if the Los Angeles Lakers will outrebound the Celtics or not.
